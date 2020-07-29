@@ -6,3 +6,5 @@ items = [
 
 x = list(filter(lambda item: item[1] >= 10, items))
 print(x)
+x = list(filter(lambda item: item[1] >= 10, items))
+print(x)
